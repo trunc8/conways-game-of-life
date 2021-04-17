@@ -1,0 +1,16 @@
+Major references:
+clear terminal> https://stackoverflow.com/questions/2084508/clear-terminal-in-python
+np convolve> https://stackoverflow.com/questions/43086557/convolve2d-just-by-using-numpy/43087771
+pretty print> https://gist.github.com/braingineer/d801735dac07ff3ac4d746e1f218ab75
+unittest> https://docs.python.org/3/library/unittest.html
+
+
+Debugging help:
+https://github.com/oanda/oandapy/issues/47
+https://www.geeksforgeeks.org/read-json-file-using-python/
+https://www.kite.com/python/answers/how-to-extract-specific-columns-from-a-numpy-array-in-python
+https://www.geeksforgeeks.org/numpy-hstack-in-python
+
+
+Comments to evaluator:
+No scipy, so defining convolve2d() using just np functions
