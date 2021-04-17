@@ -1,5 +1,5 @@
 # conways-game-of-life
-*Developed as part of JdeRobot's GSoC Python Challenge*
+*Developed as part of JdeRobot's [GSoC Python Challenge](gsoc2021-python-test.pdf)*
 
 ### Usage
 
